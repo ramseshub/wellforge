@@ -1,20 +1,24 @@
 # WellForge
 
-Engineering Software for Well Operations.
+Professional well engineering toolkit for drilling, completion and workover operations.
 
 ## Vision
 
-Build modern engineering software that helps drilling and well completion professionals work faster, safer, and with fewer manual calculations.
+WellForge is a mobile-first engineering application designed to help drilling and completion engineers perform reliable field calculations quickly and offline.
 
----
+## Version
 
-## Planned Products
+Current Version: v0.1 (Development)
 
-- CompletionCalc
-- CementCalc
-- RigFlow
-- WellForge AI
+## Modules
 
----
+- Capacity
+- Well Sketch
+- Pipe Database
+- Cement (Planned)
+- Reports (Planned)
+- AI Assistant (Planned)
 
-© 2026 WellForge
+## Status
+
+🚧 Under Development
